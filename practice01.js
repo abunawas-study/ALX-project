@@ -1,3 +1,4 @@
+// Practice Problem 1: Data Types in JavaScript
 let name = "Abunawas";
 let age = 20;
 let isStudent = true;
